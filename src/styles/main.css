@@ -16,7 +16,7 @@ html,body{
    display: flex;
    flex-direction: column;
    left: 0;
-   background-color:  #ffffff;
+   background-color:  #1d1b1b;
    position: static;
    align-items: center;
 }
@@ -37,10 +37,12 @@ html,body{
 
 .name{
     font-size: 5rem;
+    color: white;
 }
 .bio{
     max-width: 30rem;
     font-size: 1.75rem;
+    color: white;
 }
 
 .links{
