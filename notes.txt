@@ -1,0 +1,24 @@
+Tag Notes -
+    <ul> - unordered lists.
+    +Drop down navigation
+    +List of mp3's
+
+    <ol> - ordered lists.
+    + not often utilized.
+
+    <href> - allows for hyperlink to other websites.
+
+    <span> - stylistic tags.
+
+    <p> - paragraph tag
+
+Class Notes - 
+    Can initialize classes using class="" within the descriptor of a section
+    + called in the css file using .classname
+    + class is used more often than ID
+
+ID -
+    A single item can be named with an ID
+    + Utilized to specify rules for items
+    + called in css with #idname
+    + most often used for navigation

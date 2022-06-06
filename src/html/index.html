@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>My Portfolio</title>
+    <link rel="shortcut icon" href="/shared/website/src/images/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/shared/website/src/styles/main.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <!--
+        To customize site:
+            -Add name on line 26
+            -Add the profile image with your own profile pic
+            -Update the bio on line 28
+            A-dd links to respective accounts/files on lines 30-35
+            -Add projects:
+                -Add images by placing images in the images/ folder and updating the name inside that project
+                -Add a link to where the project is being hosted (github, file, etc.)
+                -Update the Project Name
+        Note: This is meant to be a template, so once everything is filled in, 
+              Start messing around with the styling/layout and have some fun!
+    -->
+    <section class="info">
+        <h1 class="name">Jack R. Harrington</h1>
+        <img class="profileImg" src="/shared/website/src/images/profilePicture.JPG" alt="profile pic">
+        <p class="bio">I am a (2/4) student at Stevens Institute of Technology majoring in Computer Science.</p>
+        <ul class="links">
+            <li><a href="/shared/website/src/attatchments/Resume.pdf">Resume</a></li>
+                 <!-- to link a resume, make sure the file is in the same directory 
+                and call it like an image, ex './resume.pdf'-->
+            <li><a href="https://github.com/jharring17">GitHub</a></li>
+            <li><a href="mailto:jackharrington1117@gmail.com">Email</a></li>
+            <li><a href="https://www.linkedin.com/in/jack-harrington-2446b1216/">LinkedIn</a></li>
+        </ul>
+    </section>
+    <section class="projects">
+
+        <!-- Beginning of the projects fields. -->
+            <div class="project">
+                <a href ="https://github.com/jharring17/StevensAssignments/tree/main/CS-392/hw7">
+                    <img src="/shared/website/src/images/chatclient.png">
+                    <div class="projTxt">
+                        <h2 class="projName">Chat Client (C)</h2>
+                    </div>
+                </a>
+            </div>
+            <div class="project">
+                    <a href ="https://github.com/jharring17/StevensAssignments/tree/main/CS-392/hw5">
+                        <img src="/shared/website/src/images/minishell.png">
+                        <div class="projTxt">
+                            <h2 class="projName">Mini Shell (C)</h2>
+                        </div>
+                    </a>
+            </div>
+            <div class="project">
+                    <a href ="https://github.com/jharring17/StevensAssignments/tree/main/CS-392/hw1">
+                        <img src="/shared/website/src/images/junk.jpg">
+                        <div class="projTxt">
+                            <h2 class="projName">Junk (BASH)</h2>
+                        </div>
+                    </a>
+            </div>
+            <div class="project">
+                    <a href ="https://github.com/jharring17/StevensAssignments/tree/main/CS-385/CPPWaterJug">
+                        <img src="/shared/website/src/images/waterjug.jpg">
+                        <div class="projTxt">
+                            <h2 class="projName">Water Jug (C++)</h2>
+                        </div>
+                    </a>
+            </div>
+            <div class="project">
+                <a href ="https://github.com/jharring17/StevensAssignments/tree/main/CS-284/hw2">
+                    <img src="/shared/website/src/images/timecomplexity.jpg">
+                    <div class="projTxt">
+                        <h2 class="projName">Complexity (Java)</h2>
+                    </div>
+                </a>
+            </div>
+            <div class="project">
+                <a href ="https://github.com/jharring17/StevensAssignments/blob/main/CS-496/hw2.ml">
+                    <img src="/shared/website/src/images/tree.png">
+                    <div class="projTxt">
+                        <h2 class="projName">Trees (OCaml)</h2>
+                    </div>
+                </a>
+            </div>
+
+
+    </section>
+</body>
+</html>
