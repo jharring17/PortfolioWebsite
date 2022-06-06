@@ -1,0 +1,6 @@
+###################################################################################################
+# Author: Jack Harrinton                                                                          #
+# Description: Items to add/implement in website coding.                                          #
+###################################################################################################
+1.  Fix the color of bio in the back of the website.
+2.  Fix the centering on the projects. 
