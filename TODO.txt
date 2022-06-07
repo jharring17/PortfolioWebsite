@@ -3,4 +3,4 @@
 # Description: Items to add/implement in website coding.                                          #
 ###################################################################################################
 1.  Fix the color of bio in the back of the website.
-2.  Fix the centering on the projects. 
+2.  Fix the centering on the projects. (Should be able to use auto-margins for this.)
