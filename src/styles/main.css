@@ -50,10 +50,7 @@ html,body{
 .links{
     font-size: 2rem;
     list-style-type: none;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    
+    display: inline-block;
 }
 .links a {
     text-decoration: none;
