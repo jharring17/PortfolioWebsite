@@ -38,11 +38,13 @@ html,body{
 .name{
     font-size: 5rem;
     color: white;
+    text-align: center;
 }
 .bio{
     max-width: 30rem;
     font-size: 1.75rem;
     color: white;
+    text-align: left;
 }
 
 .links{
