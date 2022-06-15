@@ -1,7 +1,0 @@
-###################################################################################################
-# Author: Jack Harrinton                                                                          #
-# Description: Items to add/implement in website coding.                                          #
-###################################################################################################
-1. Get the links in a 2x2 grid. 
-2. Make another project for spot #8.
-
