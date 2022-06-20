@@ -36,7 +36,7 @@ html,body{
 }
 
 .name{
-    font-size: 5rem;
+    font-size: 4rem;
     color: white;
     text-align: center;
 }
@@ -48,20 +48,20 @@ html,body{
 }
 
 .links{
-    font-size: 2rem;
+    font-size: 2.0rem;
     list-style-type: none;
-    display: inline-block;
 }
 .links a {
     text-decoration: none;
     color: #ffffff;
 }
 .links li {
-    margin-bottom: 1rem;
-    padding: .25rem;
-    border-radius: .25rem;
+    margin-bottom: 2rem;
+    padding: .50rem;
+    border-radius: .50rem;
     text-align: center;
     background-color: #7e817d;
+    display: inline-block;
 }
 .project{
     width: 15rem;
