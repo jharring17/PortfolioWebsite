@@ -68,7 +68,7 @@ html,body{
 .project{
     width: 15rem;
     height: 20rem;
-    background-color: #252424;  /* Here */
+    background-color: #252424;  
     margin: .5rem;
     padding-left: .75rem;
     padding-right: .75rem;
@@ -94,7 +94,7 @@ html,body{
 }
 
 .profileImg{
-    border: 8px solid #252424;  /* Here */
+    border: 8px solid #252424;  
     max-width: 22rem;
     max-height: 22rem;
 }
