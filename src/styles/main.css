@@ -68,7 +68,7 @@ html,body{
 .project{
     width: 15rem;
     height: 20rem;
-    background-color: #ffffff;
+    background-color: #252424;  /* Here */
     margin: .5rem;
     padding-left: .75rem;
     padding-right: .75rem;
@@ -87,14 +87,14 @@ html,body{
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #000000;
+    color: #ffffff;
 }
 .projName{
     font-size: 1.5rem;
 }
 
 .profileImg{
-    border: 8px solid #edeaea;
+    border: 8px solid #252424;  /* Here */
     max-width: 22rem;
     max-height: 22rem;
 }
