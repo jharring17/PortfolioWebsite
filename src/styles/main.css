@@ -98,7 +98,7 @@ html,body{
     max-width: 22rem;
     max-height: 22rem;
 }
-@media all and (max-width: 1000px) and (min-width: 800px)
+@media only screen and (max-width: 480px)
 {
     .info{
         padding: .1rem;
