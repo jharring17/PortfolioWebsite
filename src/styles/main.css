@@ -45,7 +45,7 @@ html,body{
     font-size: 1.75rem;
     color: white;
     text-align: left;
-    position: auto;
+    padding: 5px;
 }
 
 .links{
